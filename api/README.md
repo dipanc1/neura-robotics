@@ -39,7 +39,7 @@ This is an API for managing launch data for Neura Robotics.
 
 - `GET /api/getLaunches` - Get all launches
 - `POST /api/saveLaunch` - Save a new launch
-- `DELETE /api/deleteLaunch/flight_number` - Delete a specific launch by Flight Number
+- `DELETE /api/deleteLaunch/:flight_number` - Delete a specific launch by Flight Number
 
 ## Environment Variables
 
