@@ -50,9 +50,12 @@ yarn dev
 
 # bun
 bun run dev
+```
+
 
 ## Production
 
+```bash
 # npm
 npm run build
 
@@ -64,9 +67,11 @@ yarn build
 
 # bun
 bun run build
+```
 
 ## Preview
 
+```bash
 # npm
 npm run preview
 
@@ -78,6 +83,7 @@ yarn preview
 
 # bun
 bun run preview
+```
 
 
 This README provides a clear and concise guide for setting up, developing, building, and deploying your Neura Robotics UI project. If you need any further customization, please let me know!
