@@ -14,11 +14,11 @@ This is an API for managing launch data for Neura Robotics.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/neura-robotics-api.git
+    git clone https://github.com/dipanc1/neura-robotics
     ```
 2. Navigate to the project directory:
     ```sh
-    cd neura-robotics-api
+    cd api
     ```
 3. Install the dependencies:
     ```sh
