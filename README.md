@@ -1,3 +1,6 @@
+
+![Functionality](https://github.com/dipanc1/neura-robotics/blob/main/functionality.gif)
+
 # Project Overview
 
 This repository contains the completed assessments for both UI and API components. Each component has its own detailed README file. This document serves as a common overview for the entire project.
@@ -31,8 +34,6 @@ To set up the project, follow these steps:
     cd neura-robotics
     ```
 3. Follow the setup instructions in the respective README files for the UI and API components.
-
-![Functionality](https://github.com/dipanc1/neura-robotics/blob/main/functionality.gif)
 
 ## Contributing
 
