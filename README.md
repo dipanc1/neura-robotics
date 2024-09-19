@@ -32,7 +32,7 @@ To set up the project, follow these steps:
     ```
 3. Follow the setup instructions in the respective README files for the UI and API components.
 
-![](https://github.com/dipanc1/neura-robotics/functionality.gif)
+![Functionality](https://github.com/dipanc1/neura-robotics/functionality.gif)
 
 ## Contributing
 
