@@ -1,28 +1,42 @@
-# Nuxt 3 Minimal Starter
+# Neura Robotics UI
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is the UI for managing launch data for Neura Robotics.
 
-## Setup
+## Table of Contents
 
-Make sure to install the dependencies:
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [Production](#production)
+- [Environment Variables](#environment-variables)
+- [License](#license)
 
-```bash
-# npm
-npm install
+## Installation
 
-# pnpm
-pnpm install
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/dipanc1/neura-robotics
+    ```
+2. Navigate to the UI project directory:
+    ```sh
+    cd ui
+    ```
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
 
-# yarn
-yarn install
+## Usage
 
-# bun
-bun install
-```
+1. Start the development server:
+    ```sh
+    npm run dev
+    ```
+2. The development server will be running on `http://localhost:3000`.
 
-## Development Server
+## Development
 
-Start the development server on `http://localhost:3000`:
+Start the development server:
 
 ```bash
 # npm
@@ -36,13 +50,9 @@ yarn dev
 
 # bun
 bun run dev
-```
 
 ## Production
 
-Build the application for production:
-
-```bash
 # npm
 npm run build
 
@@ -54,11 +64,9 @@ yarn build
 
 # bun
 bun run build
-```
 
-Locally preview production build:
+## Preview
 
-```bash
 # npm
 npm run preview
 
@@ -70,6 +78,6 @@ yarn preview
 
 # bun
 bun run preview
-```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+This README provides a clear and concise guide for setting up, developing, building, and deploying your Neura Robotics UI project. If you need any further customization, please let me know!
